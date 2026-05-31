@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "slobtest1.aternos.me",
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Thằng lợn ĐạiKa",
+        "ĐẠI KA CƯNG CỦ",
+        "I like to play YOU"
       ]
     },
     "chat-log": true,
